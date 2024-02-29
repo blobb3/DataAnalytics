@@ -60,7 +60,7 @@ Each folder in this repository corresponds to a week in the course and contains:
 
 * Jupyter notebooks (.ipynb) with the assignments and solutions
 * Data files used or created during the exercises
-* Additional resources like Python scripts and READMEs for specific tasks
+* Additional resources like Python scripts
 
 To run these notebooks and scripts, ensure you have Python installed, along with the necessary libraries detailed in each week's folder. For web application exercises, Flask and Dash are required.
 
