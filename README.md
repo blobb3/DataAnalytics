@@ -1,18 +1,69 @@
-## Getting Started
+## Data Analytics
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository contains all the weekly assignments, data, and solutions of one of my Data Analytics courses, providing a comprehensive overview of the concepts, tools, and methodologies we explored throughout the course. From Python programming and Jupyter notebooks to advanced data analysis techniques, each week's content is designed to enhance our understanding of data analytics in a business context.
+## Week 1-12 Overview
+###  Week 1: Introduction to Data Analytics
 
-## Folder Structure
+* Basics of Python and Jupyter Notebooks
+* Initial exploration of data analytics process models
 
-The workspace contains two folders by default, where:
+### Week 2: Data Types, Structures, and SQL Interaction
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+ * Working with different data types and structures in Python
+* Reading & writing data from/to a relational database
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### Week 3: Data Preparation and Pivot Tables
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+* Data cleaning and preparation techniques
+*  Utilizing pivot tables for data analysis
 
-## Dependency Management
+### Week 4: Exploratory Data Analysis (EDA)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+* Applying EDA methods to understand datasets deeply
+* Visualization techniques for data analysis
+
+### Week 5: Geocoding and Basic GIS Functionalities
+* Geocoding address data
+* Introduction to QGIS for spatial data analysis
+
+### Week 6: Statistical Data Analysis
+* Simulating data and random sampling
+* Conducting t-tests and ANOVA
+
+### Week 7: Contingency Tables and Correlation Analysis
+* Analyzing contingency tables with the Chi-squared test
+* Performing Pearson correlation analysis
+
+### Week 8: Regression Analyses
+* Simple and multiple linear regression analyses
+* Regression trees and random forests
+
+### Week 9: Classification Analyses
+* Using classification trees and random forest classifiers
+* Titanic dataset and sentiment prediction
+
+### Week 10: Cluster Analysis
+* Implementing k-means clustering
+* Determining the optimal number of clusters using the elbow method
+
+### Week 11: Natural Language Processing (NLP)
+* Text preprocessing and sentiment analysis from hotel reviews
+* Part-of-Speech (POS) tagging
+
+### Week 12: Sharing Results and Web Applications
+* Running and sharing Jupyter notebooks on Google Colab and GitHub
+* Creating web applications with Flask, Plotly, and Dash
+
+## Installation and Usage
+
+Each folder in this repository corresponds to a week in the course and contains:
+
+* Jupyter notebooks (.ipynb) with the assignments and solutions
+* Data files used or created during the exercises
+* Additional resources like Python scripts and READMEs for specific tasks
+
+To run these notebooks and scripts, ensure you have Python installed, along with the necessary libraries detailed in each week's folder. For web application exercises, Flask and Dash are required.
+
+## Contributing
+
+This repository is a comprehensive collection of my work during the Data Analytics module. While it's primarily for personal review and educational purposes, suggestions or questions are welcome. 
